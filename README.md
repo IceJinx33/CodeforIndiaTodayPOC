@@ -1,7 +1,7 @@
 # CodeforIndiaToday Proof Of Concept (POC)
 
 
-CodeForIndiaToday is an initiative of the forIndiaToday Foundation. Click the link below to learn more about us.
+CodeForIndiaToday is an initiative of the forIndiaToday Foundation. Click the link below to learn more about us. Code available on request.
 
 <a href="https://www.forindiatoday.org">forIndiaToday website</a>
 
